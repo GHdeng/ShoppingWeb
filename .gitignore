@@ -1,0 +1,15 @@
+# Java class files
+*.class
+
+# Intellidea files
+*.iml
+.idea/
+/.idea/
+
+# built files
+target/
+/target/
+*.war
+
+# Log files
+*.log
